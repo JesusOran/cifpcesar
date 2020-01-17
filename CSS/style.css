@@ -21,6 +21,7 @@ aside {
   min-height: 480px;
   background: url(../imagenes/logo.png) center top no-repeat;
   margin: 0 0 20px 0;
+  background-size: cover;
 }
 
 section {
